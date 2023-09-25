@@ -26,3 +26,38 @@
    └─ homography.cpp        # 哨岗相机外参标定模块
 
 ```
+
+## 项目介绍
+![image](images/幻灯片1.PNG)
+
+![image](images/幻灯片2.PNG)
+
+![image](images/幻灯片3.PNG)
+
+![image](images/幻灯片4.PNG)
+
+![image](images/幻灯片5.PNG)
+
+![image](images/幻灯片6.PNG)
+
+![image](images/幻灯片7.PNG)
+
+![image](images/幻灯片8.PNG)
+
+![image](images/幻灯片9.PNG)
+
+![image](images/幻灯片10.PNG)
+
+![image](images/幻灯片11.PNG)
+
+![image](images/幻灯片12.PNG)
+
+![image](images/幻灯片13.PNG)
+
+![image](images/幻灯片14.PNG)
+
+![image](images/幻灯片15.PNG)
+
+![image](images/幻灯片16.PNG)
+
+![image](images/幻灯片17.PNG)
