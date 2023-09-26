@@ -1,3 +1,6 @@
+## 项目展示
+![](images/sentry.gif)
+
 ## 项目介绍
 ![image](images/幻灯片1.PNG)
 
